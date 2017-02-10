@@ -19,7 +19,8 @@
         android:textColor="@android:color/white"
         android:text="Happy Birthday!"
         android:textSize="36sp"
-        android:fontFamily="sans-serif-light" />
+        android:fontFamily="sans-serif-light"
+        android:padding="20dp"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -28,7 +29,8 @@
         android:textColor="@android:color/holo_blue_bright"
         android:text="From BBN."
         android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"/>
+        android:layout_alignParentRight="true"
+        android:padding="20dp"/>
 
 
 
